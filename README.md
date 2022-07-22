@@ -33,7 +33,7 @@ https://au2mator.com/time-based-group-membership-active-directory-self-service-w
 
 # PREMIER SERVICES
 
-au2mator is happy to support you with your Automation
+au2mator is happy to support you with Automation! <br>
 Find more Information here: <a href="https://au2mator.com/premier-services/?utm_source=github&utm_medium=social&utm_campaign=AD_TempGroupMembership&utm_content=Readme" target="_blank">au2mator.com/premier-services</a>
 
 
