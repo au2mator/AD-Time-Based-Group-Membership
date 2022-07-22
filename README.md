@@ -31,6 +31,11 @@ https://au2mator.com/time-based-group-membership-active-directory-self-service-w
 5. See our <a href="https://au2mator.com/blog/?utm_source=github&utm_medium=social&utm_campaign=AD_TempGroupMembership&utm_content=Readme">Blog</a> for more Details
 
 
+# PREMIER SERVICES
+
+au2mator is happy to support you with your Automation
+Find more Information here: <a href="https://au2mator.com/premier-services/?utm_source=github&utm_medium=social&utm_campaign=AD_TempGroupMembership&utm_content=Readme" target="_blank">au2mator.com/premier-services</a>
+
 
 # Contribute
 
