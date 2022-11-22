@@ -663,6 +663,7 @@ try {
         Write-au2matorLog -Type INFO -Text "End: $End"
             
         $ttl = New-TimeSpan -End $End
+        $ttl = New-TimeSpan -Minutes $ttl.TotalMinutes
     }
 
     Write-au2matorLog -Type INFO -Text "The calculated TTL is: $($ttl.Days) (Days) $($ttl.Hours) (Hours) $($ttl.Minutes) (Minutes) "
